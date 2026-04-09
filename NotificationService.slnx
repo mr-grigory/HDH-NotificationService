@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NotificationService.API/NotificationService.API.csproj" />
+    <Project Path="src/NotificationService.Application/NotificationService.Application.csproj" />
+    <Project Path="src/NotificationService.Domain/NotificationService.Domain.csproj" />
+    <Project Path="src/NotificationService.Infrastructure.Postgre/NotificationService.Infrastructure.Postgre.csproj" />
+    <Project Path="src/NotificationService.Infrastructure.Telegram/NotificationService.Infrastructure.Telegram.csproj" />
+    <Project Path="src/NotificationService.Presenters/NotificationService.Presenters.csproj" />
+  </Folder>
+</Solution>
